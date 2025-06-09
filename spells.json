@@ -45,13 +45,13 @@
     "range": "Toucher",
     "ritual": false,
     "concentration": true,
-    "saving_throws": ["force","dextérité","constitution","intelligence","sagesse","charisme"],
+    "saving_throws": ["force", "dextérité", "constitution", "intelligence", "sagesse", "charisme"],
     "material_consumed": false,
     "material_mandatory": false,
     "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
   },
   {
-    "name": "Absoprtion des Éléments",
+    "name": "Absorption des Éléments",
     "name_en": "Absorb Elements",
     "level": 1,
     "school": "Abjuration",
@@ -66,5 +66,5 @@
     "material_mandatory": false,
     "saving_throws": [],
     "description": "Le sort capte une partie de l'énergie entrante, ce qui réduit son effet sur vous et la stocke pour votre prochaine attaque au corps à corps. Vous obtenez une résistance à ce type de dégâts jusqu'au début de votre prochain tour. De plus, la première fois que vous touchez avec une attaque au corps à corps lors de votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type d'élément ciblé, et le sort se termine."
-  },
+  }
 ]
