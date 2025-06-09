@@ -12,7 +12,7 @@
     "ritual": false,
     "concentration": false,
     "material_consumed": true,
-    "material_required": true,
+    "material_mandatory": true,
     "saving_throws": [],
     "description": "Une corde jusqu’à 18 mètres de long se dresse verticalement. Elle reste en place pendant la durée du sort."
   },
@@ -29,7 +29,7 @@
     "ritual": false,
     "concentration": false,
     "material_consumed": false,
-    "material_required": false,
+    "material_mandatory": false,
     "saving_throws": ["dextérité"],
     "description": "Une explosion de flammes jaillit. Toute créature dans la zone doit faire un jet de sauvegarde de Dextérité."
   },
@@ -47,7 +47,7 @@
     "concentration": true,
     "saving_throws": ["force","dextérité","constitution","intelligence","sagesse","charisme"],
     "material_consumed": false,
-    "material_required": false,
+    "material_mandatory": false,
     "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
   }
 ]
