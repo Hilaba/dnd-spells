@@ -4,7 +4,7 @@
     "name_en": "Rope Trick",
     "level": 2,
     "school": "Transmutation",
-    "classes": ["Magicien", "Ensorceleur"],
+    "classes": ["Ensorceleur", "Magicien"],
     "components": ["V", "S", "M"],
     "casting_time": "1 action",
     "duration": "1 heure",
@@ -21,7 +21,7 @@
     "name_en": "Fireball",
     "level": 3,
     "school": "Évocation",
-    "classes": ["Magicien", "Ensorceleur"],
+    "classes": ["Ensorceleur", "Magicien"],
     "components": ["V", "S", "M"],
     "casting_time": "1 action",
     "duration": "Instantanée",
@@ -50,4 +50,21 @@
     "material_mandatory": false,
     "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
   }
+  {
+    "name": "Absoprtion des Éléments",
+    "name_en": "Absorb Elements",
+    "level": 1,
+    "school": "Abjuration",
+    "classes": ["Ensorceleur", "Magicien", ],
+    "components": ["S"],
+    "casting_time": "1 action",
+    "duration": "1 round",
+    "range": "Personnele",
+    "ritual": false,
+    "concentration": false,
+    "material_consumed": false,
+    "material_mandatory": false,
+    "saving_throws": [],
+    "description": "Le sort capte une partie de l'énergie entrante, ce qui réduit son effet sur vous et la stocke pour votre prochaine attaque au corps à corps. Vous obtenez une résistance à ce type de dégâts jusqu'au début de votre prochain tour. De plus, la première fois que vous touchez avec une attaque au corps à corps lors de votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type d'élément ciblé, et le sort se termine."
+  },
 ]
