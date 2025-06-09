@@ -70,5 +70,5 @@
     "material_mandatory": false,
     "upcasting": true,
     "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
-  },
+  }
 ]
