@@ -55,7 +55,7 @@
     "name_en": "Absorb Elements",
     "level": 1,
     "school": "Abjuration",
-    "classes": ["Ensorceleur", "Magicien", ],
+    "classes": ["Ensorceleur", "Magicien"],
     "components": ["S"],
     "casting_time": "1 action",
     "duration": "1 round",
