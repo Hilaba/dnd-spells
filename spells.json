@@ -49,7 +49,7 @@
     "material_consumed": false,
     "material_mandatory": false,
     "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
-  }
+  },
   {
     "name": "Absoprtion des Éléments",
     "name_en": "Absorb Elements",
@@ -59,7 +59,7 @@
     "components": ["S"],
     "casting_time": "1 action",
     "duration": "1 round",
-    "range": "Personnele",
+    "range": "Personnelle",
     "ritual": false,
     "concentration": false,
     "material_consumed": false,
