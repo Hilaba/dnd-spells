@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Corde Enchantée",
+    "name_en": "Rope Trick",
+    "level": 2,
+    "school": "Transmutation",
+    "classes": ["Magicien", "Ensorceleur"],
+    "components": ["V", "S", "M"],
+    "casting_time": "1 action",
+    "duration": "1 heure",
+    "range": "Toucher",
+    "ritual": false,
+    "concentration": false,
+    "material_consumed": true,
+    "material_required": true,
+    "saving_throws": [],
+    "description": "Une corde jusqu’à 18 mètres de long se dresse verticalement. Elle reste en place pendant la durée du sort."
+  },
+  {
+    "name": "Boule de Feu",
+    "name_en": "Fireball",
+    "level": 3,
+    "school": "Évocation",
+    "classes": ["Magicien", "Ensorceleur"],
+    "components": ["V", "S", "M"],
+    "casting_time": "1 action",
+    "duration": "Instantanée",
+    "range": "45 mètres",
+    "ritual": false,
+    "concentration": false,
+    "material_consumed": false,
+    "material_required": false,
+    "saving_throws": ["dextérité"],
+    "description": "Une explosion de flammes jaillit. Toute créature dans la zone doit faire un jet de sauvegarde de Dextérité."
+  },
+  {
+    "name": "Contagion",
+    "name_en": "Contagion",
+    "level": 5,
+    "school": "Nécromancie",
+    "classes": ["Clerc", "Druide"],
+    "components": ["V", "S"],
+    "casting_time": "1 action",
+    "duration": "7 jours",
+    "range": "Toucher",
+    "ritual": false,
+    "concentration": true,
+    "saving_throws": ["force","dextérité","constitution","intelligence","sagesse","charisme"],
+    "material_consumed": false,
+    "material_required": false,
+    "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
+  }
+]
