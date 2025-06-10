@@ -54,6 +54,24 @@
     "description": "Votre sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort. Aux niveaux supérieurs. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les points de vie de chaque cible augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 2."
   },
   {
+    "name": "Alarme",
+    "name_en": "Alarm",
+    "level": 1,
+    "school": "Abjuration",
+    "classes": ["Magicien", "Rôdeur"],
+    "components": ["V", "S", "M"],
+    "casting_time": "1 minute",
+    "duration": "8 heures",
+    "range": "9 mètres",
+    "ritual": true,
+    "concentration": false,
+    "material_consumed": false,
+    "material_mandatory": false,
+    "upcasting": false,
+    "saving_throws": [] ,
+    "description": "Vous mettez en place une alarme contre les intrusions indésirables. Choisissez une porte, une fenêtre, ou une zone à portée qui ne dépasse pas un cube de 6 mètres d'arête. Jusqu'à la fin du sort, une alarme vous alerte lorsqu'une créature de taille TP ou supérieure touche ou pénètre la zone surveillée. Lorsque vous lancez ce sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez également choisir si l'alarme est audible ou juste mentale. Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1,5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi. Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 18 mètres."
+  },
+  {
     "name": "Corde Enchantée",
     "name_en": "Rope Trick",
     "level": 2,
