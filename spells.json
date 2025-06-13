@@ -15,7 +15,7 @@
     "material_mandatory": false,
     "upcasting": true,
     "saving_throws": [],
-    "description": "Le sort capte une partie de l'énergie entrante, ce qui réduit son effet sur vous et la stocke pour votre prochaine attaque au corps à corps. (Lorsque vous prenez lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre). Vous obtenez une résistance à ce type de dégâts jusqu'au début de votre prochain tour.\nDe plus, la première fois que vous touchez avec une attaque au corps à corps lors de votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type d'élément ciblé, et le sort se termine."
+    "description": "Le sort capte une partie de l'énergie entrante, ce qui réduit son effet sur vous et la stocke pour votre prochaine attaque au corps à corps. (Lorsque vous prenez lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre). Vous obtenez une résistance à ce type de dégâts jusqu'au début de votre prochain tour. De plus, la première fois que vous touchez avec une attaque au corps à corps lors de votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type d'élément ciblé, et le sort se termine."
   },
   {
     "name": "Agrandissement Rapetissement",
