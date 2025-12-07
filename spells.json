@@ -214,5 +214,24 @@
     "material_mandatory": false,
     "upcasting": true,
     "description": "Vous touchez une créature et imprégnez son corps d'une maladie. La maladie affaiblit ses statistiques pendant plusieurs jours."
+  },
+  {
+    "name": "Flétrissure Épouvantable d'Abi-Dalzim",
+    "name_en": "Abi-Dalzim's Horrid Wilting",
+    "level": 8,
+    "school": "Nécromancie",
+    "classes": ["Ensorceleur", "Magicien"],
+    "components": ["V", "S", "M"],
+    "casting_time": "1 action",
+    "duration": "Instantanée",
+    "range": "45 mètres",
+    "ritual": false,
+    "concentration": false,
+    "saving_throws": ["constitution"],
+    "material_consumed": false,
+    "material_mandatory": false,
+    "upcasting": false,
+    "description":
   }
 ]
+
